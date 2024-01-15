@@ -1,0 +1,21 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  
+    "scripts": {
+      "test": "jest",
+      "coverage": "jest --coverage"
+    },
+    "devDependencies": {
+      "jest": "^27.0.0",
+      "node-fetch": "^2.6.5"
+    },
+  
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
